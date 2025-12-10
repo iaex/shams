@@ -7,7 +7,7 @@
           <div class="row gy-5 gx-4">
             <div class="col-md-6">
               <div class="footer__about">
-                <a href="index.html" class="footer__about-logo"><img src="assets/logo-dark.png"
+                <a  href="../bitrader/admin/index.php" class="footer__about-logo"><img style="height: 180px; width: 180px;" src="assets/logo.png"
                     alt="Logo"></a>
                 <p class="footer__about-moto ">Welcome to our trading site! We offer the best, most
                   affordable products and services around. Shop now and start finding great deals!</p>
@@ -16,7 +16,7 @@
                     <div class="footer__app-inner">
                       <div class="footer__app-thumb">
                         <a href="https://www.apple.com/app-store/" target="_blank" class="stretched-link">
-                          <img src="assets/images/footer/apple.png" alt="apple-icon">
+                          <img   src="assets/images/footer/apple.png" alt="apple-icon">
                         </a>
                       </div>
                       <div class="footer__app-content">
