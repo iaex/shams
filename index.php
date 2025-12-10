@@ -26,7 +26,7 @@
       <div class="container">
         <div class="header-wrapper">
           <div class="logo">
-            <a href="index.html">
+            <a href="index.php">
               <img  style="height: 80px; width: auto;" class="" src="assets/logo.png" alt="logo">
             </a>
           </div>
@@ -43,11 +43,11 @@
                             <div class="home-showcase__image">
                               <img src="assets/images/demo/1.png" alt="home-showcase">
                               <div class="home-showcase__buttons">
-                                <a href="index.html?theme=light"
+                                <a href="index.php?theme=light"
                                   class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3"><span>Preview</span></a>
                               </div>
                             </div>
-                            <h3 class="home-showcase__title"><a href="index.html?theme=light">Stock Trading</a>
+                            <h3 class="home-showcase__title"><a href="index.php?theme=light">Stock Trading</a>
                             </h3>
                           </div> 
                         </div>
@@ -56,11 +56,11 @@
                             <div class="home-showcase__image">
                               <img src="assets/images/demo/1-dark.png" alt="home-showcase">
                               <div class="home-showcase__buttons">
-                                <a href="index.html?theme=dark"
+                                <a href="index.php?theme=dark"
                                   class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3"><span>Preview</span></a>
                               </div>
                             </div>
-                            <h3 class="home-showcase__title"><a href="index.html?theme=dark">Stock Trading Dark</a>
+                            <h3 class="home-showcase__title"><a href="index.php?theme=dark">Stock Trading Dark</a>
                             </h3>
                           </div>
                         </div>
