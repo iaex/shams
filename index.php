@@ -83,7 +83,7 @@
                               <img src="assets/images/demo/2-dark.png" alt="home-showcase">
                               <div class="home-showcase__buttons">
                                 <a href="index-2.html?theme=dark"
-                                  class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3"><span>Preview</span></a>
+                                  class="trk-btn trk-btn--primary home-showcase__buttons-item mt-3"><span>Evana</span></a>
                               </div>
                             </div>
                             <h3 class="home-showcase__title"> <a href="index-2.html?theme=dark">Crypto Trading Dark</a>
